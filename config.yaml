@@ -1,0 +1,10 @@
+path: '/content/drive/MyDrive/Tumor'
+train: 'train'
+val: 'val'
+names: 
+        0: 'Glioma'
+        1: 'Meningioma'
+        2: 'No Tumor'
+        3: 'Pituitary'
+    
+
